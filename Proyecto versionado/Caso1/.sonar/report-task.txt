@@ -1,0 +1,5 @@
+projectKey=Caso1
+serverUrl=http://ss-pris2.rhcloud.com
+dashboardUrl=http://ss-pris2.rhcloud.com/dashboard/index/Caso1
+ceTaskId=AVS4dajcDExEJeALNTrl
+ceTaskUrl=http://ss-pris2.rhcloud.com/api/ce/task?id=AVS4dajcDExEJeALNTrl
